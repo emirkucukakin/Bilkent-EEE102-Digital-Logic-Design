@@ -14,19 +14,19 @@ Laboratory reports and term project documentation completed during the \*\*Sprin
 
 
 
-\- \[Lab 01](Lab01/)
+\- \[Lab 01](Lab01/emir\_kucukakin\_EEE102\_Lab01\_Report.pdf)
 
-\- \[Lab 02](Lab02/)
+\- \[Lab 02](Lab02/emir\_kucukakin\_EEE102\_Lab02\_Report.pdf)
 
-\- \[Lab 03](Lab03/)
+\- \[Lab 03](Lab03/emir\_kucukakin\_EEE102\_Lab03\_Report.pdf)
 
-\- \[Lab 04](Lab04/)
+\- \[Lab 04](Lab04/emir\_kucukakin\_EEE102\_Lab04\_Report.pdf)
 
-\- \[Lab 05](Lab05/)
+\- \[Lab 05](Lab05/emir\_kucukakin\_EEE102\_Lab05\_Report.pdf)
 
-\- \[Lab 06](Lab06/)
+\- \[Lab 06](Lab06/emir\_kucukakin\_EEE102\_Lab06\_Report.pdf)
 
-\- \[Lab 07](Lab07/)
+\- \[Lab 07](Lab07/emir\_kucukakin\_EEE102\_Lab07\_Report.pdf)
 
 
 
@@ -34,7 +34,9 @@ Laboratory reports and term project documentation completed during the \*\*Sprin
 
 
 
-The project proposal and final report are available in the \[Term Project folder](Term\_Project/).
+\- \[Project Proposal](Term\_Project/emir\_kucukakin\_EEE102\_project\_proposal.pdf)
+
+\- \[Final Report](Term\_Project/emir\_kucukakin\_EEE102\_term\_project.pdf)
 
 
 
