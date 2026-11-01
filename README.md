@@ -21,7 +21,7 @@ Laboratory reports and term project documentation completed during the **Spring 
 
 ## Repository Contents
 
-This repository currently contains PDF reports and project documentation. The original Vivado project files are not included.
+This repository contains laboratory reports, project documentation, and source code packages for each experiment.
 
 ## Contact
 
