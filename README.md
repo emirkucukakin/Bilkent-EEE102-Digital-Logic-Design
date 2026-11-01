@@ -16,8 +16,7 @@ Laboratory reports and term project documentation completed during the **Spring 
 
 ## Term Project
 
-- [Project Proposal](Term_Project/emir_kucukakin_EEE102_project_proposal.pdf)
-- [Final Report](Term_Project/emir_kucukakin_EEE102_term_project.pdf)
+- [Term Project](Term_Project/)
 
 ## Repository Contents
 
