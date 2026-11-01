@@ -1,4 +1,4 @@
-# EE102 Term Project: Smart Posture Monitor and AFK Alert System
+# EEE102 Term Project: Smart Posture Monitor and AFK Alert System
 
 This project is designed to continuously monitor user posture and activity using a Basys 3 FPGA board combined with external hardware components. 
 
