@@ -1,6 +1,6 @@
 # Bilkent University — EEE102: Digital Logic Design
 
-Laboratory reports and term project documentation completed during the **Spring 2025** semester at Bilkent University.
+Laboratory reports and term project documentation completed during the **Spring 2026** semester at Bilkent University.
 
 **Author:** Emir Küçükakın
 
