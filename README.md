@@ -1,48 +1,28 @@
-\# Bilkent University — EEE102: Digital Logic Design
+# Bilkent University — EEE102: Digital Logic Design
 
+Laboratory reports and term project documentation completed during the **Spring 2025** semester at Bilkent University.
 
+**Author:** Emir Küçükakın
 
-Laboratory reports and term project documentation completed during the \*\*Spring 2025\*\* semester at Bilkent University.
+## Laboratory Reports
 
+- [Lab 01](Lab01/)
+- [Lab 02](Lab02/)
+- [Lab 03](Lab03/)
+- [Lab 04](Lab04/)
+- [Lab 05](Lab05/)
+- [Lab 06](Lab06/)
+- [Lab 07](Lab07/)
 
+## Term Project
 
-\*\*Author:\*\* Emir Küçükakın
+- [Project Proposal](Term_Project/emir_kucukakin_EEE102_project_proposal.pdf)
+- [Final Report](Term_Project/emir_kucukakin_EEE102_term_project.pdf)
 
-
-
-\## Laboratory Reports
-
-
-
-\- \[Lab 01](Lab01/emir\_kucukakin\_EEE102\_Lab01\_Report.pdf)
-
-\- \[Lab 02](Lab02/emir\_kucukakin\_EEE102\_Lab02\_Report.pdf)
-
-\- \[Lab 03](Lab03/emir\_kucukakin\_EEE102\_Lab03\_Report.pdf)
-
-\- \[Lab 04](Lab04/emir\_kucukakin\_EEE102\_Lab04\_Report.pdf)
-
-\- \[Lab 05](Lab05/emir\_kucukakin\_EEE102\_Lab05\_Report.pdf)
-
-\- \[Lab 06](Lab06/emir\_kucukakin\_EEE102\_Lab06\_Report.pdf)
-
-\- \[Lab 07](Lab07/emir\_kucukakin\_EEE102\_Lab07\_Report.pdf)
-
-
-
-\## Term Project
-
-
-
-\- \[Project Proposal](Term\_Project/emir\_kucukakin\_EEE102\_project\_proposal.pdf)
-
-\- \[Final Report](Term\_Project/emir\_kucukakin\_EEE102\_term\_project.pdf)
-
-
-
-\## Repository Contents
-
-
+## Repository Contents
 
 This repository currently contains PDF reports and project documentation. The original Vivado project files are not included.
 
+## Contact
+
+[GitHub](https://github.com/emirkucukakin) • [LinkedIn](https://www.linkedin.com/in/emirkucukakin/)
