@@ -20,7 +20,7 @@ Laboratory reports and term project documentation completed during the **Spring 
 
 ## Repository Contents
 
-This repository contains laboratory reports and source code packages for each experiment, along with project documentation and available Vivado project files.
+This repository contains laboratory reports, laboratory assignments and source code packages for each experiment, along with project documentation and available Vivado project files.
 
 ## Contact
 
