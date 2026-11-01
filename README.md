@@ -1,6 +1,6 @@
 # Bilkent University — EEE102: Digital Logic Design
 
-Laboratory reports and term project documentation completed during the **Spring 2025** semester at Bilkent University.
+Laboratory reports and term project documentation completed during the **Spring 2026** semester at Bilkent University.
 
 **Author:** Emir Küçükakın
 
@@ -16,12 +16,11 @@ Laboratory reports and term project documentation completed during the **Spring 
 
 ## Term Project
 
-- [Project Proposal](Term_Project/emir_kucukakin_EEE102_project_proposal.pdf)
-- [Final Report](Term_Project/emir_kucukakin_EEE102_term_project.pdf)
+- [Term Project](Term_Project/)
 
 ## Repository Contents
 
-This repository currently contains PDF reports and project documentation. The original Vivado project files are not included.
+This repository contains laboratory reports, project documentation, and source code packages for each experiment.
 
 ## Contact
 
